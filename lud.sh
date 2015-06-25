@@ -1,0 +1,1 @@
+/home/alexander/lucene-dumper/src/main/bin/lud.sh
